@@ -1,0 +1,62 @@
+waterfall model
+1.requirement analysis ->exact requirement customer nunchi requirement gather
+2.system design ->srs->software desing specification document this phase make a design 
+3.implementation
+4.testing
+5.deployment
+6.maintaince
+
+
+
+it demands systematic , sequential approach 
+
+1.advantages it is very simple and easy to understand and use
+2.easy to manage
+3.phases are processed & completed at a time
+4.requirement are very well understood
+
+
+disadvantages
+1.no working software is produced until late during life cycle 
+2.high amount of risk
+3.very poor for large project
+
+prototype model
+multiple iteration
+design 
+prototyping
+customer evalution
+review and upate
+then customer satisfy
+
+development
+test
+maintain
+
+advantages
+customer can see steady progess
+this is useful when requirement and changing rapidly
+
+disavantages
+it is impossible to know how long it will take process
+there is no way to know the no of iteration will be requirement
+
+spiral model
+
+it is combination of waterfall and iteration 
+each phase in spiral model begin with design goal and end with client rquirement
+software develop in sa series in increment releases
+one phase release after second phase
+
+advantages
+additional functionality or changes can done at later stage
+cost estimation becomes easy
+
+
+
+
+very show to customer
+after develop
+
+customer requirement gather
+document form convert

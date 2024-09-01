@@ -1,0 +1,10 @@
+CHROME
+control T
+COntrol W
+
+NOTEPAD
+control N
+
+VS CODE
+cntrol Tab 
+
